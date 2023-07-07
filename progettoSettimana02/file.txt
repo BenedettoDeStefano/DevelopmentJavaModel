@@ -1,0 +1,10 @@
+titolo=Il Codice Da Vinci, isbn=22344, autore='Dan Brown, genere='Mistero
+titolo=Orgoglio e pregiudizio, isbn=44566, autore='Jane Austen, genere='Romanzo
+titolo=Il signore degli anelli, isbn=66788, autore='J.R.R. Tolkien, genere='Fantasy
+titolo=Il piccolo principe, isbn=77899, autore='Antoine de Saint-Exupéry, genere='Fiaba
+titolo=Moby Dick, isbn=88900, autore='Herman Melville, genere='Romanzo
+titolo=Time Magazine, isbn=12345, periodicita='SETTIMANALE
+titolo=Vogue, isbn=23456, periodicita='MENSILE
+titolo=National Geographic Kids, isbn=34567, periodicita='MENSILE
+titolo=Science, isbn=45678, periodicita='MENSILE
+titolo=Sports, isbn=56789, periodicita='SEMESTRALE
